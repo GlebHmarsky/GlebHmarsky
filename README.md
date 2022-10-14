@@ -17,7 +17,9 @@
 
 ### 👨‍💻 About Me
 
-I am a frontend developer at company MDinc. I currently learning a DevOps engineering technologies.
+I am a Frontend developer. 
+<br/>I also currently learning a DevOps engineering technologies.
+<br/>Have a year+ experience in company MDinc as a Frontend 
 
 ---
 
